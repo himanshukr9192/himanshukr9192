@@ -6,10 +6,11 @@ As a highly motivated and skilled Computer Science undergraduate at Bengal Colle
 
 Along with my technical skills, I possess excellent problem-solving skills and a passion for learning. My coding profiles on Hacker Rank, LeetCode, and CodeChef demonstrate my passion for coding and my dedication to self-improvement. In my free time, I enjoy keeping up with Geopolitical News, playing chess, and traveling.
 
-Stas :-
-![Screenshot 2024-02-01 064043](https://github.com/himanshukr9192/himanshukr9192/assets/99739276/c22b5fe3-9cfc-433e-95a5-b0efe9d42454)
-
 I am excited to leverage my skills and experience to contribute to an innovative organization and grow my career as a software developer.
+
+Stas :-
+
+![Screenshot 2024-02-01 064043](https://github.com/himanshukr9192/himanshukr9192/assets/99739276/c22b5fe3-9cfc-433e-95a5-b0efe9d42454)
 
 - 📫 Reach me :-
 - Email - himanshukumar98355@gmail.com

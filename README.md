@@ -10,7 +10,6 @@ I am excited to leverage my skills and experience to contribute to an innovative
 
 
 Stas :-
-
 ![Screenshot 2024-02-01 064043](https://github.com/himanshukr9192/himanshukr9192/assets/99739276/c22b5fe3-9cfc-433e-95a5-b0efe9d42454)
 
 

@@ -13,6 +13,8 @@ I am excited to leverage my skills and experience to contribute to an innovative
 - Email - himanshukumar98355@gmail.com
 - Linkedin - https://www.linkedin.com/in/himanshu-kumar-024592235/
 - My Contribution to Data Science - https://www.kaggle.com/himanshukumar7079
+- Geeksforgeeks - https://auth.geeksforgeeks.org/user/himanshukumar98355
+- Leetcode - https://leetcode.com/himanshukumar98355/
 
 Stas :-
 

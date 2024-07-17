@@ -2,7 +2,7 @@
 
 Machine learning/Deep Learning enthusiast | Front-End Web Developer | Python Developer 
 
-As a highly motivated and skilled Computer Science undergraduate at Bengal College of Engineering and Technology, I am eager to apply my technical skills and knowledge to a challenging role in the tech industry. I have gained hands-on experience in building Projects and Models using technologies such as Python, Core Java, HTML/CSS, JavaScript, Flask, RandomForest, Decision Trees, Reinforcement Learning, Keras, TensorFlow, PHP, OpenCV.
+As a highly motivated and skilled Computer Science undergraduate at Bengal College of Engineering and Technology, I am eager to apply my technical skills and knowledge to a challenging role in the tech industry. I have gained hands-on experience in building Projects and Models using technologies such as Python, Core Java, MERN Stack, HTML/CSS, JavaScript, Flask, Keras, TensorFlow, PHP, OpenCV.
 
 Along with my technical skills, I possess excellent problem-solving skills and a passion for learning. My coding profiles on Hacker Rank, LeetCode, and CodeChef demonstrate my passion for coding and my dedication to self-improvement. In my free time, I enjoy keeping up with Geopolitical News, playing chess, and traveling.
 

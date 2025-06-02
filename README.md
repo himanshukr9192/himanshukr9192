@@ -1,4 +1,4 @@
-## - 👋 Hi, I’m @himanshukr9192 :-)
+##  👋 Hi, I’m @himanshukr9192   :-)
 
 ###  Passionate AI Developer | Researcher | Innovator | Front-End Web Developer | Python Developer 
 
@@ -10,13 +10,13 @@ I am excited to leverage my skills and experience to contribute to an innovative
 
 
 ## 🔗 Connect with Me  
-📧 **Email:** himanshukumar98355@gmail.com
-🔗 **LinkedIn:** [Himanshu Kumar](https://www.linkedin.com/in/himanshu-kumar-024592235/)
-- My Contribution to Data Science - https://www.kaggle.com/himanshukumar7079
-- Geeksforgeeks - https://auth.geeksforgeeks.org/user/himanshukumar98355
-- Leetcode - https://leetcode.com/himanshukumar98355/
+- **Email:** himanshukumar98355@gmail.com
+- **LinkedIn:** [Himanshu Kumar](https://www.linkedin.com/in/himanshu-kumar-024592235/)
+- **My Contribution to Data Science:** https://www.kaggle.com/himanshukumar7079
+- **Geeksforgeeks:** https://auth.geeksforgeeks.org/user/himanshukumar98355
+- **Leetcode:** https://leetcode.com/himanshukumar98355/
 
-Stas :-
+## Stas :-
 
 ![Screenshot 2024-02-01 064043](https://github.com/himanshukr9192/himanshukr9192/assets/99739276/c22b5fe3-9cfc-433e-95a5-b0efe9d42454)
 

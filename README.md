@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @himanshukr9192 :-)
+## - 👋 Hi, I’m @himanshukr9192 :-)
 
-Machine learning/Deep Learning enthusiast | Front-End Web Developer | Python Developer 
+###  Passionate AI Developer | Researcher | Innovator | Front-End Web Developer | Python Developer 
 
 As a highly motivated and skilled Computer Science undergraduate at Bengal College of Engineering and Technology, I am eager to apply my technical skills and knowledge to a challenging role in the tech industry. I have gained hands-on experience in building Projects and Models using technologies such as Python, Core Java, MERN Stack, HTML/CSS, JavaScript, Flask, Keras, TensorFlow, PHP, OpenCV.
 
@@ -9,9 +9,9 @@ Along with my technical skills, I possess excellent problem-solving skills and a
 I am excited to leverage my skills and experience to contribute to an innovative organization and grow my career as a software developer.
 
 
-📫 Reach me :-
-- Email - himanshukumar98355@gmail.com
-- Linkedin - https://www.linkedin.com/in/himanshu-kumar-024592235/
+## 🔗 Connect with Me  
+📧 **Email:** himanshukumar98355@gmail.com
+🔗 **LinkedIn:** [Himanshu Kumar](https://www.linkedin.com/in/himanshu-kumar-024592235/)
 - My Contribution to Data Science - https://www.kaggle.com/himanshukumar7079
 - Geeksforgeeks - https://auth.geeksforgeeks.org/user/himanshukumar98355
 - Leetcode - https://leetcode.com/himanshukumar98355/
